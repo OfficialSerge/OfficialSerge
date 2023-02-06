@@ -2,7 +2,6 @@ Hi 👋 My name is Sergiu Pod
 ===========================  
 Front End Developer
 -------------------  
-Certified AWS Associate Solutions Architect. I write in TypeScript, JavaScript, Rust, Python. I think Rust is the future. I'm trying to like Vim. Self taught.  
 
 * 🌍  I'm based in Chicago 
 * ✉️  You can contact me at [sergiupod@outlook.com](mailto:sergiupod@outlook.com) 
