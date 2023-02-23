@@ -5,10 +5,10 @@ Front End Developer
 
 I’m a certified AWS Associate Solutions Architect and Full Stack Developer with one and a half years’ worth of experience. I can readily program in JavaScript and Typescript as well as instrument UI components using common web frameworks like React and Svelte. I like utilizing my skill set to architect rich user experiences. Currently I'm working on taking my skills to the next level via incorporating technologies like Tailwind css and Next.js into my workflow.
 
-* 🌍  I'm based in Chicago 
-* ✉️  You can contact me at [sergiupod@outlook.com](mailto:sergiupod@outlook.com) 
-* 🔭  I’m currently working on building web apps using TypeScript, Next, and Tailwind css
-* 🧠  I'm learning Vim and Rust
+* 🌍 I'm based in Chicago 
+* ✉️ You can contact me at [sergiupod@outlook.com](mailto:sergiupod@outlook.com) 
+* 🔭 I’m currently working on building web apps using TypeScript, Next, and Tailwind css
+* 🧠 I'm learning Vim and Rust
 
 ### Skills  
 
