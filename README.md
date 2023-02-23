@@ -7,7 +7,7 @@ I’m a certified AWS Associate Solutions Architect and Full Stack Developer wit
 
 * 🌍  I'm based in Chicago 
 * ✉️  You can contact me at [sergiupod@outlook.com](mailto:sergiupod@outlook.com) 
-* 🔭 I’m currently working on building web apps using TypeScript, Next, and Tailwind css
+* 🔭  I’m currently working on building web apps using TypeScript, Next, and Tailwind css
 * 🧠  I'm learning Vim and Rust
 
 ### Skills  
