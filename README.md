@@ -1,5 +1,5 @@
 # Hi 👋🏼 My name is Serge</h1>
-I specialize in Full Stack Development with a focus on **Typescript**, **React**, **Tailwindcss** and **Nextjs**. I'm a certified AWS Associate Solutions Architect and with experience building scalable web applications, integrating APIs, and optimizing performance across the stack. I also like low-level, compiled programming languages and enjoy writing performant, lean **C/C++** code using my favorite text editor, **Vim**.
+I specialize in Full Stack Development with a focus on **Typescript**, **React**, **Tailwindcss** and **Nextjs**. I'm a certified AWS Associate Solutions Architect with experience building scalable web applications, integrating APIs, and optimizing performance across the stack. I also like low-level, compiled programming languages and enjoy writing performant, lean **C/C++** code using my favorite text editor, **Vim**.
 <br/><br/>
 
 ### 🛠️ Tech Stack
