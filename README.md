@@ -9,6 +9,7 @@ I specialize in Full Stack Development with a focus on **Typescript**, **React**
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)](https://www.python.org/)
 [![C/C++](https://img.shields.io/badge/C%2FCPP-00599C?logo=cplusplus&logoColor=white&style=for-the-badge)](https://isocpp.org/)
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white&style=for-the-badge)
 
 **Frameworks & Libraries**  
 [![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge)](https://react.dev/)
