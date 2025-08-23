@@ -1,6 +1,8 @@
 # Hi 👋🏼 My name is Serge</h1>
 ### Software Engineer <br/> M.S Computer Science
-I specialize in modern full-stack development with a focus on **TypeScript**, **React**, **Next.js**, and **Node.js**. My work often combines **Python** for data science, **C/C++** for performance-critical tasks, and front-end foundations in **HTML5/CSS3** with frameworks like **Tailwind CSS**. I’m experienced in building scalable web applications, integrating APIs, and optimizing performance across the stack.  
+I’m a graduate Computer Science student at the University of Illinois Urbana-Champaign, a certified AWS Associate Solutions Architect, and a Full Stack Developer. I'm extremely comfortable working with **HTML, CSS, JavaScript and Typescript.** I also love low-level, compiled languages and enjoy writing performant, lean code using my favorite text editor, Vim.
+<br/><br/>
+
 
 ### 🛠️ Tech Stack
 
@@ -21,6 +23,9 @@ I specialize in modern full-stack development with a focus on **TypeScript**, **
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?logo=googlecloud&logoColor=white&style=for-the-badge)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge)
+<br/><br/>
+
 
 ### 📚 Relevant Coursework (UIUC)
 <details>
@@ -43,7 +48,7 @@ I specialize in modern full-stack development with a focus on **TypeScript**, **
   <summary>CS 423 – Operating Systems</summary>
   Explored CPU and memory virtualization, filesystems, wrote Linux drivers in C using procfs filesystem and ioctl.
 </details>
+<br/>
 
-* 🎓 Looking to dive deep into systems level languages like C and Rust
-* 🧠 I like Vim
-* ✉️ You can contact me at [sergiupod@outlook.com](mailto:sergiupod@outlook.com)
+### ✉️ Contact
+You can contact me at [sergiupod@outlook.com](mailto:sergiupod@outlook.com)
