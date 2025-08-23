@@ -1,8 +1,7 @@
 # Hi 👋🏼 My name is Serge</h1>
 ### Software Engineer <br/> M.S Computer Science <br/> University of Illinois, Urbana-Champaign
-I'm a certified AWS Associate Solutions Architect, and a Full Stack Developer. I'm extremely comfortable working with **HTML, CSS, JavaScript and Typescript.** I also love low-level, compiled languages and enjoy writing performant, lean code using my favorite text editor, Vim.
+I specialize in Full Stack Development with a focus on **Typescript**, **React**, **Tailwindcss** and **Nextjs**. I'm a certified AWS Associate Solutions Architect and with experience building scalable web applications, integrating APIs, and optimizing performance across the stack. I also like low-level, compiled programming languages and enjoy writing performant, lean **C/C++** code using my favorite text editor, **Vim**.
 <br/><br/>
-
 
 ### 🛠️ Tech Stack
 
@@ -26,7 +25,6 @@ I'm a certified AWS Associate Solutions Architect, and a Full Stack Developer. I
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge)
 <br/><br/>
 
-
 ### 📚 Relevant Coursework (UIUC)
 <details>
   <summary>CS 431 – Embedded Systems</summary>
@@ -38,7 +36,7 @@ I'm a certified AWS Associate Solutions Architect, and a Full Stack Developer. I
 </details>
 <details>
   <summary>CS 483 – Applied Parallel Programming</summary>
-  Studied database management, SQL query optimization, data indexing schemes, transaction processing and failover.
+  Parallelized sequential workloads and programmed AI model inferences using NVIDIA’s Cuda C framework for GPUs.
 </details>
 <details>
   <summary>CS 444 – Deep Learning for Computer Vision</summary>
@@ -47,8 +45,7 @@ I'm a certified AWS Associate Solutions Architect, and a Full Stack Developer. I
 <details>
   <summary>CS 423 – Operating Systems</summary>
   Explored CPU and memory virtualization, filesystems, wrote Linux drivers in C using procfs filesystem and ioctl.
-</details>
-<br/>
+</details><br/>
 
 ### ✉️ Contact
 You can contact me at [sergiupod@outlook.com](mailto:sergiupod@outlook.com)
