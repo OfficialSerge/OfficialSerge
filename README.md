@@ -1,6 +1,6 @@
 # Hi 👋🏼 My name is Serge</h1>
-### Software Engineer <br/> M.S Computer Science
-I’m a graduate Computer Science student at the University of Illinois Urbana-Champaign, a certified AWS Associate Solutions Architect, and a Full Stack Developer. I'm extremely comfortable working with **HTML, CSS, JavaScript and Typescript.** I also love low-level, compiled languages and enjoy writing performant, lean code using my favorite text editor, Vim.
+### Software Engineer <br/> M.S Computer Science <br/> University of Illinois, Urbana-Champaign
+I'm a certified AWS Associate Solutions Architect, and a Full Stack Developer. I'm extremely comfortable working with **HTML, CSS, JavaScript and Typescript.** I also love low-level, compiled languages and enjoy writing performant, lean code using my favorite text editor, Vim.
 <br/><br/>
 
 
